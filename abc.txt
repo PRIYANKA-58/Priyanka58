@@ -2,3 +2,6 @@ My first Line code abc.txt
 My second Line code abc.txt
 
 My third line code.only first two were in staging when I wrot this.Hi
+
+
+Today 10 june
